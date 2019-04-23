@@ -14,7 +14,7 @@ to install the base packages needed.
 https://github.com/udacity/deep-reinforcement-learning/tree/master/p3_collab-compet
 While I only tested this approach on Ubuntu Linux, it should work on Windows or Mac OS in the same way.
 
-# Description of the Reacher Environment
+# Description of the Tennis Environment
 The goal is to train two agents to play tennis, e.g., keep a tennis ball in the air as long as possible. 
 An animation of the task together with a detailed description of the environment can be found at https://github.com/udacity/deep-reinforcement-learning/tree/master/p3_collab-compet.
 
